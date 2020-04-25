@@ -458,7 +458,7 @@ fireEvent.click(button)
 
 <!-- Käytännössä siis loimme <i>fireEventin</i> avulla tapahtuman <i>click</i> nappia vastaavalle komponentille. Voimme myös simuloida lomakkeisiin kirjoittamista <i>fireEventin</i> avulla. -->
 In practice we used the <i>fireEvent</i> to create a <i>click</i> event for the button component. 
-We cal also simulate text input with <i>fireEvent</i>.
+We can also simulate text input with <i>fireEvent</i>.
 
 <!-- Tehdään testi komponentille <i>NoteForm</i>. Lomakkeen koodi näyttää seuraavalta -->
 Let's make a test for the <i>NoteForm</i> component. The code of the component is as follows
